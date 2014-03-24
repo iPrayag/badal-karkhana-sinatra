@@ -1,0 +1,1 @@
+install dependencies---------------------```$ bundle install```Check out http://shopify.github.com/dashing for more information.start server---------------```$ dashing start```
